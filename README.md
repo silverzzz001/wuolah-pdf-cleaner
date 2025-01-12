@@ -1,6 +1,6 @@
 # Wuolah PDF Cleaner
 
-Wuolah PDF Cleaner es una aplicación creada para eliminar la publicidad de los archivos PDF gratuitos descargados de la plataforma Wuolah. Con esta herramienta, podrás limpiar tus PDFs de anuncios de manera rápida y sencilla.
+Wuolah PDF Cleaner es una aplicación creada para eliminar la publicidad o anuncios de los archivos PDF gratuitos descargados de la plataforma Wuolah. Con esta herramienta, podrás limpiar tus PDFs de anuncios de manera rápida y sencilla.
 
 ## Descargas
 Puedes descargar Wuolah PDF Cleaner [aquí](https://github.com/silverzzz001/wuolah-pdf-cleaner/releases) 
